@@ -5,7 +5,7 @@ export default function Home() {
       style={{ backgroundImage: "url('/coffee-shop.jpg')" }}
     >
       <div className=''>
-        <h1>This is a home page bitch</h1>
+        <h1>This is a home page baby</h1>
       </div>
     </main>
   );
