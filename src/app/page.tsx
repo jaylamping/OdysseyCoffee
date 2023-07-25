@@ -1,9 +1,9 @@
+import Navbar from './components/Navbar';
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-20">
-      <h1>Hello</h1>
-      <p>There</p>
-      <p>baby</p>
+      <Navbar />
     </main>
   );
 }
